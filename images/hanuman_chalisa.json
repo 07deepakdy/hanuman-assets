@@ -1,0 +1,228 @@
+{
+   "title":{
+      "hindi":"हनुमान चालीसा",
+      "english":"Hanuman Chalisa"
+   },
+   "doha_start":[
+      {
+         "hindi":"श्रीगुरु चरन सरोज रज निज मनु मुकुरु सुधारि । बरनउँ रघुवर बिमल जसु जो दायकु फल चारि ॥",
+         "english":"Having purified the mirror of my mind with the dust of my Guru's lotus feet, I describe the spotless glory of Lord Rama, which bestows the four fruits of life."
+      },
+      {
+         "hindi":"बुद्धिहीन तनु जानिके सुमिरौं पवन-कुमार । बल बुधि विद्या देहु मोहिं हरहु कलेस विकार ॥",
+         "english":"Knowing myself to be lacking in wisdom, I remember you, O Son of the Wind. Grant me strength, intelligence, and knowledge, and remove my afflictions and impurities."
+      }
+   ],
+   "chaupais":[
+      {
+         "number":1,
+         "hindi":"जय हनुमान ज्ञान गुन सागर । जय कपीस तिहुँ लोक उजागर ॥",
+         "english":"Hail Hanuman, ocean of wisdom and virtue; hail the lord of monkeys, who illuminates the three worlds."
+      },
+      {
+         "number":2,
+         "hindi":"राम दूत अतुलित बल धामा । अंजनी-पुत्र पवनसुत नामा ॥",
+         "english":"You are the messenger of Rama, the abode of incomparable strength, known as the son of Anjani and the Wind God."
+      },
+      {
+         "number":3,
+         "hindi":"महावीर विक्रम बजरंगी । कुमति निवार सुमति के सङ्गी ॥",
+         "english":"Great hero, mighty as the thunderbolt, remover of evil thoughts and companion of wisdom."
+      },
+      {
+         "number":4,
+         "hindi":"कंचन वरन विराज सुवेसा । कानन कुण्डल कुंचित केसा ॥",
+         "english":"Golden in complexion, beautifully adorned, with earrings and curly hair."
+      },
+      {
+         "number":5,
+         "hindi":"हाथ वज्र औ ध्वजा विराजे । काँधे मूँज जनेउ साजै ॥",
+         "english":"Holding a thunderbolt and a flag, with a sacred thread adorning your shoulder."
+      },
+      {
+         "number":6,
+         "hindi":"शंकर सुवन केसरीनन्दन । तेज प्रताप महा जग बंधन ॥",
+         "english":"You are an incarnation of Shiva and the son of Kesari, possessing immense brilliance and glory."
+      },
+      {
+         "number":7,
+         "hindi":"विद्यावान गुनी अति चातुर । राम काज करिबे को आतुर ॥",
+         "english":"Wise, virtuous, and highly intelligent, always eager to carry out Lord Rama's work."
+      },
+      {
+         "number":8,
+         "hindi":"प्रभु चरित्र सुनिबे को रसिया । राम लखन सीता मन बसिया ॥",
+         "english":"You delight in listening to the Lord's stories, and Rama, Lakshmana, and Sita dwell in your heart."
+      },
+      {
+         "number":9,
+         "hindi":"सूक्ष्म रूप धरि सियहिं दिखावा । विकत रूप धरि लंक जरावा ॥",
+         "english":"You took a tiny form to appear before Sita and a gigantic form to burn Lanka."
+      },
+      {
+         "number":10,
+         "hindi":"भीम रूप धरि असुर सँहारे । रामचन्द्र के काज सँवारे ॥",
+         "english":"Assuming a terrifying form, you destroyed demons and fulfilled Lord Rama's mission."
+      },
+      {
+         "number":11,
+         "hindi":"लाय संजीवन लखन जियाये । श्रीरघुवीर हरषि उर लाये ॥",
+         "english":"You brought the Sanjeevani herb and revived Lakshmana, bringing great joy to Lord Rama."
+      },
+      {
+         "number":12,
+         "hindi":"रघुपति कीन्ही बहुत बड़ाई । तुम मम प्रिय भरतहि सम भाई ॥",
+         "english":"Lord Rama greatly praised you and said, 'You are as dear to me as my brother Bharata.'"
+      },
+      {
+         "number":13,
+         "hindi":"सहस बदन तुह्मारो जस गावैं । अस कहि श्रीपति कण्ठ लगावैं ॥",
+         "english":"Thousands of mouths sing your glory, said Lord Vishnu as He embraced you."
+      },
+      {
+         "number":14,
+         "hindi":"सनकादिक ब्रह्मादि मुनीसा । नारद सारद सहित अहीसा ॥",
+         "english":"Sanaka and other sages, Brahma, Narada, Saraswati, and Shesha sing your praises."
+      },
+      {
+         "number":15,
+         "hindi":"यम कुबेर दिगपाल जहाँ ते । कवि कोविद कहि सके कहाँ ते ॥",
+         "english":"Even Yama, Kubera, and the guardians of the directions cannot fully describe your greatness."
+      },
+      {
+         "number":16,
+         "hindi":"तुम उपकार सुग्रीवहिं कीन्हा । राम मिलाय राज पद दीह्ना ॥",
+         "english":"You helped Sugriva meet Rama and regain his kingdom."
+      },
+      {
+         "number":17,
+         "hindi":"तुम्हारो मन्त्र विभीषण माना । लंकेश्वर भए सब जग जाना ॥",
+         "english":"Vibhishana followed your advice and became the king of Lanka."
+      },
+      {
+         "number":18,
+         "hindi":"जुग सहस्र जोजन पर भानु । लील्यो ताहि मधुर फल जानू ॥",
+         "english":"You leapt toward the sun, thousands of miles away, mistaking it for a sweet fruit."
+      },
+      {
+         "number":19,
+         "hindi":"प्रभु मुद्रिका मेलि मुख माहीं । जलधि लाँघि गये अचरज नाहीं ॥",
+         "english":"Holding Lord Rama's ring in your mouth, you crossed the ocean effortlessly."
+      },
+      {
+         "number":20,
+         "hindi":"दुर्गम काज जगत के जेते । सुगम अनुग्रह तुम्हारे तेते ॥",
+         "english":"All difficult tasks in the world become easy through your grace."
+      },
+      {
+         "number":21,
+         "hindi":"राम दुआरे तुम रखवारे । होत न आज्ञा बिनु पैसारे ॥",
+         "english":"You guard the door of Rama; none may enter without your permission."
+      },
+      {
+         "number":22,
+         "hindi":"सब सुख लहै तुम्हारी सरना । तुम रक्षक काहू को डर ना ॥",
+         "english":"Those who seek refuge in you find all happiness and have nothing to fear."
+      },
+      {
+         "number":23,
+         "hindi":"आपन तेज सम्हारो आपै । तीनों लोक हाँक तें काँपै ॥",
+         "english":"You alone can control your immense power; your roar makes the three worlds tremble."
+      },
+      {
+         "number":24,
+         "hindi":"भूत पिशाच निकट नहिं आवै । महावीर जब नाम सुनावै ॥",
+         "english":"Ghosts and evil spirits do not come near where your name is recited."
+      },
+      {
+         "number":25,
+         "hindi":"नासै रोग हरै सब पीड़ा । जपत निरन्तर हनुमत बीरा ॥",
+         "english":"Diseases and suffering vanish by constantly chanting the name of brave Hanuman."
+      },
+      {
+         "number":26,
+         "hindi":"संकट तें हनुमान छुड़ावै । मन क्रम वचन ध्यान जो लावै ॥",
+         "english":"Hanuman frees devotees from troubles when they meditate on him in thought, word, and deed."
+      },
+      {
+         "number":27,
+         "hindi":"सब पर राम तपस्वी राजा । तिन के काज सकल तुम साजा ॥",
+         "english":"Lord Rama is the supreme ascetic king, and you successfully complete all His tasks."
+      },
+      {
+         "number":28,
+         "hindi":"और मनोरथ जो कोई लावै । सोई अमित जीवन फल पावै ॥",
+         "english":"Whoever comes to you with wishes obtains abundant rewards in life."
+      },
+      {
+         "number":29,
+         "hindi":"चारों जुग परताप तुम्हारा । है परसिद्ध जगत उजियारा ॥",
+         "english":"Your glory shines throughout all four ages and illuminates the world."
+      },
+      {
+         "number":30,
+         "hindi":"साधु सन्त के तुम रखवारे । असुर निकन्दन राम दुलारे ॥",
+         "english":"You are the protector of saints, destroyer of demons, and beloved of Lord Rama."
+      },
+      {
+         "number":31,
+         "hindi":"अष्टसिद्धि नौ निधि के दाता । अस वर दीन जानकी माता ॥",
+         "english":"Mother Sita granted you the boon of bestowing the eight spiritual powers and nine treasures."
+      },
+      {
+         "number":32,
+         "hindi":"राम रसायन तुम्हारे पासा । सदा रहो रघुपति के दासा ॥",
+         "english":"You possess the nectar of devotion to Rama and remain forever His devoted servant."
+      },
+      {
+         "number":33,
+         "hindi":"तुम्हारे भजन राम को पावै । जनम जनम के दुख बिसरावै ॥",
+         "english":"Through devotion to you, one attains Lord Rama and forgets the sorrows of many lifetimes."
+      },
+      {
+         "number":34,
+         "hindi":"अन्त काल रघुवर पुर जाई । जहाँ जन्म हरिभक्त कहाई ॥",
+         "english":"At life's end, one reaches Lord Rama's abode and is reborn as a devotee of God."
+      },
+      {
+         "number":35,
+         "hindi":"और देवता चित्त न धरई । हनुमत सेइ सर्व सुख करई ॥",
+         "english":"No need to focus on other deities; devotion to Hanuman brings all happiness."
+      },
+      {
+         "number":36,
+         "hindi":"संकट कटै मिटै सब पीड़ा । जो सुमिरै हनुमत बलबीरा ॥",
+         "english":"All troubles and suffering disappear for those who remember mighty Hanuman."
+      },
+      {
+         "number":37,
+         "hindi":"जय जय जय हनुमान गोसाईं । कृपा करहु गुरुदेव की नाईं ॥",
+         "english":"Victory to you, Lord Hanuman! Please bestow your grace as a revered Guru."
+      },
+      {
+         "number":38,
+         "hindi":"जो शत बार पाठ कर कोई । छूटहि बन्दि महा सुख होई ॥",
+         "english":"Whoever recites this Chalisa one hundred times is freed from bondage and attains great happiness."
+      },
+      {
+         "number":39,
+         "hindi":"जो यह पढ़ै हनुमान चालीसा । होय सिद्धि साखी गौरीसा ॥",
+         "english":"Whoever reads this Hanuman Chalisa attains success, as witnessed by Lord Shiva."
+      },
+      {
+         "number":40,
+         "hindi":"तुलसीदास सदा हरि चेरा । कीजै नाथ हृदय महँ डेरा ॥",
+         "english":"Tulsidas, the eternal servant of Hari, prays that you reside forever in his heart."
+      }
+   ],
+   "doha_end":[
+      {
+         "hindi":"पवनतनय संकट हरन मंगल मूरति रूप ।",
+         "english":"O Son of the Wind, remover of troubles and embodiment of auspiciousness."
+      },
+      {
+         "hindi":"राम लखन सीता सहित हृदय बसहु सुर भूप ॥",
+         "english":"Reside in my heart along with Rama, Lakshmana, and Sita."
+      }
+   ]
+}
